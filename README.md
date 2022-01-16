@@ -1,6 +1,6 @@
 # :bank: BankApi
 
-:camera: BankAPi is a Restful API. The API handels the bank transactions.
+:camera: BankAPi is a Restful API. The API handle the bank transactions.
 
 ## :hammer_and_wrench: How I built it?
 For the backend I used Python.
